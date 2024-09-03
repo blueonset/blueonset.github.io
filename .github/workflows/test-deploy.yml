@@ -25,4 +25,8 @@ jobs:
         run: npm ci
 
       - name: Test build website
+<<<<<<< HEAD
         run: npm run build
+=======
+        run: npm run build
+>>>>>>> c302b89 (GH WF udpated)
