@@ -67,12 +67,6 @@ const config = {
               label: 'Networking',
           },
           {
-              type: 'doc',
-              docId: 'observability/observability',
-              position: 'left',
-              label: 'Observability',
-          },
-          {
             type: 'doc',
             docId: 'security/security',
             position: 'left',
@@ -83,6 +77,12 @@ const config = {
             docId: 'storage/storage',
             position: 'left',
             label: 'Storage',
+          },
+          {
+            type: 'doc',
+            docId: 'observability/observability',
+            position: 'left',
+            label: 'Observability',
           },
           {
             type: 'doc',
